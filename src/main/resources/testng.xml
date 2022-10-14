@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Flipkart Selenium Automation test">
+
+	<listeners>
+		<listener class-name="com.flipkart.utils.Listeners" />
+	</listeners>
+
+	<test name="FlipKart Web Automation Test">
+
+		<classes>
+			<class name="com.flipkart.tests.LoginPageTest" />
+			<class name="com.flipkart.tests.HomePageTest" />
+			<class name="com.flipkart.tests.SearchResultTest" />
+
+		</classes>
+
+	</test>
+
+</suite>

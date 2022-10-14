@@ -1,0 +1,40 @@
+2022-10-14 17:21:28 INFO  Flipkart UI Automation Testing:26 - ************Started LoginPageTest*****************
+2022-10-14 17:22:21 INFO  Flipkart UI Automation Testing:34 - ************ Validating loginPageTitleTest*****************
+2022-10-14 17:22:30 INFO  Flipkart UI Automation Testing:49 - ************Completed LoginPageTest*****************
+2022-10-14 17:22:32 INFO  Flipkart UI Automation Testing:26 - ************Started LoginPageTest*****************
+2022-10-14 17:23:12 INFO  Flipkart UI Automation Testing:42 - ************ Validating loginTest*****************
+2022-10-14 17:23:14 INFO  Flipkart UI Automation Testing:49 - ************Completed LoginPageTest*****************
+2022-10-14 17:23:14 INFO  Flipkart UI Automation Testing:22 - ************Started HomePageTest*****************
+2022-10-14 17:23:46 INFO  Flipkart UI Automation Testing:33 - ************Checking validateLoginBtnTest on Homepage*****************
+2022-10-14 17:23:46 INFO  Flipkart UI Automation Testing:40 - ************Completed HomePageTest*****************
+2022-10-14 17:23:49 INFO  Flipkart UI Automation Testing:29 - ************Started SearchResultTest*****************
+2022-10-14 17:24:34 INFO  Flipkart UI Automation Testing:49 - ************Checking searchTest*****************
+2022-10-14 17:24:40 INFO  Flipkart UI Automation Testing:52 - The product name you have searched :::: iphone
+2022-10-14 17:24:40 INFO  Flipkart UI Automation Testing:59 - ************Completed SearchResultTest*****************
+2022-10-14 17:24:42 INFO  Flipkart UI Automation Testing:29 - ************Started SearchResultTest*****************
+2022-10-14 17:25:25 INFO  Flipkart UI Automation Testing:49 - ************Checking searchTest*****************
+2022-10-14 17:25:28 INFO  Flipkart UI Automation Testing:52 - The product name you have searched :::: sony tv
+2022-10-14 17:25:28 INFO  Flipkart UI Automation Testing:59 - ************Completed SearchResultTest*****************
+2022-10-14 17:25:29 INFO  Flipkart UI Automation Testing:29 - ************Started SearchResultTest*****************
+2022-10-14 17:26:13 INFO  Flipkart UI Automation Testing:49 - ************Checking searchTest*****************
+2022-10-14 17:26:16 INFO  Flipkart UI Automation Testing:52 - The product name you have searched :::: oneplus
+2022-10-14 17:26:16 INFO  Flipkart UI Automation Testing:59 - ************Completed SearchResultTest*****************
+2022-10-14 22:15:59 INFO  Flipkart UI Automation Testing:29 - ************Started SearchResultTest*****************
+2022-10-14 22:19:28 INFO  Flipkart UI Automation Testing:49 - ************Checking searchTest*****************
+2022-10-14 22:19:34 INFO  Flipkart UI Automation Testing:52 - The product name you have searched :::: iphone
+2022-10-14 22:19:34 INFO  Flipkart UI Automation Testing:59 - ************Completed SearchResultTest*****************
+2022-10-14 22:19:38 INFO  Flipkart UI Automation Testing:29 - ************Started SearchResultTest*****************
+2022-10-14 22:20:34 INFO  Flipkart UI Automation Testing:49 - ************Checking searchTest*****************
+2022-10-14 22:20:42 INFO  Flipkart UI Automation Testing:52 - The product name you have searched :::: sony tv
+2022-10-14 22:20:42 INFO  Flipkart UI Automation Testing:59 - ************Completed SearchResultTest*****************
+2022-10-14 22:20:44 INFO  Flipkart UI Automation Testing:29 - ************Started SearchResultTest*****************
+2022-10-14 22:21:55 INFO  Flipkart UI Automation Testing:49 - ************Checking searchTest*****************
+2022-10-14 22:22:01 INFO  Flipkart UI Automation Testing:52 - The product name you have searched :::: oneplus
+2022-10-14 22:22:01 INFO  Flipkart UI Automation Testing:59 - ************Completed SearchResultTest*****************
+2022-10-14 22:43:22 INFO  Flipkart UI Automation Testing:22 - ************Started HomePageTest*****************
+2022-10-14 22:44:02 INFO  Flipkart UI Automation Testing:33 - ************Checking validateLoginBtnTest on Homepage*****************
+2022-10-14 22:44:02 INFO  Flipkart UI Automation Testing:40 - ************Completed HomePageTest*****************
+2022-10-14 22:48:43 INFO  Flipkart UI Automation Testing:22 - ************Started HomePageTest*****************
+2022-10-14 22:50:56 INFO  Flipkart UI Automation Testing:22 - ************Started HomePageTest*****************
+2022-10-14 22:52:03 INFO  Flipkart UI Automation Testing:33 - ************Checking validateLoginBtnTest on Homepage*****************
+2022-10-14 22:52:08 INFO  Flipkart UI Automation Testing:40 - ************Completed HomePageTest*****************
